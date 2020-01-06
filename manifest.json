@@ -2,7 +2,7 @@
     "name": "MultiTrackDriftingSurvivors",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Prismism0/Multi-Track-Drifting-Survivors",
-    "description": "Wish your mobile engineer turrets made you painfully aware of how hard they are drifting? Well now they will!",
+    "description": "Let the sounds of Initial D overwhelm you as you sprint your way through the stages.",
     "dependencies": [
         "bbepis-BepInExPack-3.0.0",
         "tristanmcpherson-R2API-2.3.7"
