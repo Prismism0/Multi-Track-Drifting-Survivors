@@ -12,7 +12,7 @@ It is as silly as it sounds.
 
 Demo video (youtube):
 
-[![Could not link video](http://img.youtube.com/vi/NzMFPO9ZJo/0.jpg)](https://www.youtube.com/watch?v=_NzMFPO9ZJo)
+[![Could not link video](http://img.youtube.com/vi/_NzMFPO9ZJo/0.jpg)](http://www.youtube.com/watch?v=_NzMFPO9ZJo)
 
 ***
 
