@@ -6,7 +6,7 @@ This plugin is a client-side plugin. **When in multiplayer, only players that ha
 
 
 ## What this plugin does
-Survivors will play Running In tbe 90's as they run around. The faster they go, the louder the music.
+Survivors will play Running In the 90's as they run around. The faster they go, the louder the music.
 
 It is as silly as it sounds.
 
@@ -15,12 +15,11 @@ Demo video (youtube):
 [![Could not link video](http://img.youtube.com/vi/_NzMFPO9ZJo/0.jpg)](http://www.youtube.com/watch?v=_NzMFPO9ZJo)
 
 ***
-
-This plugin can utilize [HjUpdaterAPI](https://thunderstore.io/package/Lodington/HjUpdaterAPI/) for automatic updates!
-
 ***
 
 ### Changelog:
 
-    - 1.0.0 (Latest)
+	- 2.0.0 (Latest)
+		- Updated for new modding framework
+    - 1.0.0
         - Release
